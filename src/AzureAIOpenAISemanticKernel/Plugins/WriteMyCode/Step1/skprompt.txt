@@ -1,0 +1,15 @@
+Generate code exactly as follows
+
+The codig must be
+- Easy to maintain
+- Simple to understand
+- Use .NET7
+- The code must be used in .NET dependency injection standar 
+- Using SOLID principles
+- Use best praticies
+- Be testable
+
+Generate code on:
++++++
+{{$requirements}}
++++++
